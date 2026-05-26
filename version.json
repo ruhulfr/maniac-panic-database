@@ -1,0 +1,6 @@
+{
+  "database_version": "4.0",
+  "database_file": "panic_database.json",
+  "last_updated": "2026-05-26",
+  "changelog": "Initial online database release"
+}
